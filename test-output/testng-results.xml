@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="C" duration-ms="362468" started-at="2018-08-05T06:58:00Z" finished-at="2018-08-05T07:04:02Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="362468" started-at="2018-08-05T06:58:00Z" finished-at="2018-08-05T07:04:02Z">
+      <class name="com.crossover.app.TestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crossover.app.TestCases@17c68925]" name="setUp" is-config="true" duration-ms="132" started-at="2018-08-05T06:58:00Z" finished-at="2018-08-05T06:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="browserLaunch()[pri:1, instance:com.crossover.app.TestCases@17c68925]" name="browserLaunch" duration-ms="45882" started-at="2018-08-05T06:58:00Z" finished-at="2018-08-05T06:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crossover.app.TestCases@17c68925]" name="setUp" is-config="true" duration-ms="0" started-at="2018-08-05T06:58:46Z" finished-at="2018-08-05T06:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.crossover.app.TestCases@17c68925]" name="loginTest" duration-ms="308774" started-at="2018-08-05T06:58:46Z" finished-at="2018-08-05T07:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="updateReport()[pri:0, instance:com.crossover.app.TestCases@17c68925]" name="updateReport" is-config="true" duration-ms="7625" started-at="2018-08-05T07:03:55Z" finished-at="2018-08-05T07:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateReport -->
+      </class> <!-- com.crossover.app.TestCases -->
+    </test> <!-- testngTest -->
+  </suite> <!-- C -->
+</testng-results>

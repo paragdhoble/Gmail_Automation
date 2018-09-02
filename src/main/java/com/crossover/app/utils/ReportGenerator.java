@@ -13,7 +13,7 @@ import java.util.Set;
 /**
  * Created by parag.dhoble on 04-08-2018.
  */
-public class ReportGenrator {
+public class ReportGenerator {
    public static HashMap <String, Object[]> testResultDetails = new HashMap<String, Object[]>();
 
 
